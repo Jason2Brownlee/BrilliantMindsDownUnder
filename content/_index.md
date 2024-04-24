@@ -8,11 +8,9 @@ title: Home
 
 This is the free online version of my book **Brilliant Minds Down Under: Australian Nobel Laureates in Science and Literature**.
 
-This book was an experiment, developed in collaboration with ChatGPT4 and Claude3.
+This book was an experiment, developed in collaboration with ChatGPT4 and Claude3. I hope you find it interesting.
 
-I hope you find it interesting.
-
-
+![Brilliant Minds Down Under](cover.png)
 
 ### Details
 
