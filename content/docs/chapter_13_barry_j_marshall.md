@@ -1,3 +1,6 @@
+---
+title: Chapter 13 - Barry J. Marshall
+---
 # Barry J. Marshall
 
 > Barry J. Marshall and J. Robin Warren's Nobel Prize-winning discovery of the bacterium Helicobacter pylori revolutionized the understanding and treatment of gastric diseases, saving countless lives worldwide.

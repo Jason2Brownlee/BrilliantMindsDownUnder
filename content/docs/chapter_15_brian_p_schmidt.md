@@ -1,3 +1,6 @@
+---
+title: Chapter 15 - Brian P. Schmidt
+---
 # Brian P. Schmidt
 
 > Brian P. Schmidt's Nobel Prize-winning discovery of the accelerating expansion of the Universe revolutionized our understanding of cosmology and revealed the existence of the mysterious dark energy that permeates the cosmos.

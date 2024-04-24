@@ -1,3 +1,6 @@
+---
+title: Chapter 11 - J. M. Coetzee
+---
 # J. M. Coetzee
 
 > J. M. Coetzee's Nobel Prize-winning literature poignantly explores the human condition, giving voice to the marginalized and illuminating the complexities of life in a post-colonial world.

@@ -1,3 +1,6 @@
+---
+title: Chapter 14 - Elizabeth Blackburn
+---
 # Elizabeth Blackburn
 
 > Elizabeth Blackburn's Nobel Prize-winning discovery of telomeres and telomerase unveiled the key to chromosomal protection and cellular aging, revolutionizing our understanding of life at its most fundamental level.

@@ -1,3 +1,6 @@
+---
+title: Chapter 8 - Patrick White
+---
 # Patrick White
 
 > "Patrick White's epic and psychological novels unveiled the complex inner lives of his characters, illuminating the Australian experience and elevating Australian literature to new heights on the world stage."

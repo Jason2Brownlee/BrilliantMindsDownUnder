@@ -1,3 +1,6 @@
+---
+title: Chapter 1 - Sir William Lawrence Bragg
+---
 # Sir William Lawrence Bragg
 
 > William Lawrence Bragg's pioneering work in X-ray crystallography unlocked the secrets of the atomic structure of crystals, revolutionizing the field of solid-state physics and laying the foundation for countless scientific and technological advancements.

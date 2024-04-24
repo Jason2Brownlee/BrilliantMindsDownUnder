@@ -1,3 +1,6 @@
+---
+title: Chapter 7 - Sir Bernard Katz
+---
 # Sir Bernard Katz
 
 > Sir Bernard Katz's Nobel Prize-winning research unraveled the fundamental mechanisms of neurotransmission, revolutionizing our understanding of how nerve cells communicate.

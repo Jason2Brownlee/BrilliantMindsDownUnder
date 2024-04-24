@@ -1,3 +1,6 @@
+---
+title: Chapter 5 - Sir John Carew Eccles
+---
 # Sir John Carew Eccles
 
 > Sir John Carew Eccles' pioneering research on the ionic mechanisms of nerve cell membranes revolutionized our understanding of the nervous system and laid the foundation for modern neuroscience.

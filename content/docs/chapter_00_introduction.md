@@ -1,3 +1,7 @@
+---
+title: Introduction
+weight: 1
+---
 # Introduction
 
 ## Australia's Understated Sense of National Pride

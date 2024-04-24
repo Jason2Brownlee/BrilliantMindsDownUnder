@@ -1,3 +1,6 @@
+---
+title: Chapter 10 - Peter C. Doherty
+---
 # Peter C. Doherty
 
 > Peter C. Doherty's Nobel Prize-winning discoveries revolutionized our understanding of the immune system's ability to recognize and fight virus-infected cells, paving the way for new strategies in vaccine development and disease prevention.

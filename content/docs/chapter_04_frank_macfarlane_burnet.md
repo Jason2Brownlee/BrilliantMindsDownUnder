@@ -1,3 +1,6 @@
+---
+title: Chapter 4 - Sir Frank Macfarlane Burnet
+---
 # Sir Frank Macfarlane Burnet
 
 > Sir Frank Macfarlane Burnet's pioneering research on acquired immunological tolerance paved the way for advances in organ transplantation and our understanding of the immune system.

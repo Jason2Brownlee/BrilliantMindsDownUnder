@@ -1,3 +1,6 @@
+---
+title: Chapter 3 - Howard Florey
+---
 # Howard Florey
 
 > Howard Florey's pioneering work in the development of penicillin as a practical antibiotic saved countless lives and revolutionized the treatment of infectious diseases.

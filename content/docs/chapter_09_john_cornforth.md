@@ -1,3 +1,6 @@
+---
+title: Chapter 9 - Sir John Cornforth
+---
 # Sir John Cornforth
 
 > Sir John Cornforth's Nobel Prize-winning work on the stereochemistry of enzyme-catalyzed reactions uncovered the precise three-dimensional structures of molecules involved in enzymatic processes, revolutionizing our understanding of biochemistry and paving the way for targeted drug design.

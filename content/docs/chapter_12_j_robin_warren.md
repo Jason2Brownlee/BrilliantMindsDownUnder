@@ -1,3 +1,6 @@
+---
+title: Chapter 12 - J. Robin Warren
+---
 # J. Robin Warren
 
 > J. Robin Warren and Barry J. Marshall's groundbreaking discovery of the bacterium Helicobacter pylori revolutionized our understanding of gastric diseases and paved the way for more effective treatments for millions of people worldwide.

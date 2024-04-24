@@ -1,3 +1,6 @@
+---
+title: Chapter 6 - Alexander M. Prokhorov
+---
 # Alexander M. Prokhorov
 
 > Alexander M. Prokhorov's pioneering work in quantum electronics unlocked the potential of masers and lasers, ushering in a new era of scientific discovery and technological innovation.

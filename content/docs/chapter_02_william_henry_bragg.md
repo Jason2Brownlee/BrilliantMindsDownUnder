@@ -1,3 +1,6 @@
+---
+title: Chapter 2 - Sir William Henry Bragg
+---
 # Sir William Henry Bragg
 
 > Sir William Henry Bragg's pioneering work in X-ray crystallography laid the foundation for a new era of scientific discovery, revolutionizing our understanding of the atomic structure of matter.
