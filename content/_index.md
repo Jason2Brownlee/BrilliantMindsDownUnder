@@ -38,7 +38,7 @@ This book was an experiment, developed in collaboration with LLMs, I hope you fi
 
 > "Brilliant Minds Down Under: Australian Nobel Laureates in Science and Literature" is an inspiring celebration of Australia's most accomplished and influential minds. Through a series of insightful profiles, this book shines a spotlight on the 15 remarkable Australians who have been awarded the Nobel Prize, one of the world's highest honors, for their groundbreaking contributions to the fields of science and literature.
 >
-> Designed for curious readers aged 25-65 with an interest in science, history, and the power of ideas, this book takes a unique approach to sharing the stories behind Australia's Nobel laureates. Each laureate is profiled using a consistent template that provides a concise yet comprehensive overview of their life, work, and lasting impact.
+> Designed for curious readers with an interest in science, history, and the power of ideas, this book takes a unique approach to sharing the stories behind Australia's Nobel laureates. Each laureate is profiled using a consistent template that provides a concise yet comprehensive overview of their life, work, and lasting impact.
 >
 > The book opens with an engaging introduction that sets the stage by exploring Australia's understated sense of national pride, the immense significance of the Nobel Prize, and the inspiration behind showcasing Australian laureates. It then dives into 15 riveting chapters, each dedicated to an Australian Nobel laureate in science or literature:
 >
