@@ -23,22 +23,22 @@ I hope you find it interesting.
 
 ### Table of Contents
 
-* Introduction
-* Sir William Lawrence Bragg
-* Sir William Henry Bragg
-* Howard Florey
-* Sir Frank Macfarlane Burnet
-* Sir John Carew Eccles
-* Alexander M. Prokhorov
-* Sir Bernard Katz
-* Patrick White
-* Sir John Cornforth
-* Peter C. Doherty
-* J. M. Coetzee
-* J. Robin Warren
-* Barry J. Marshall
-* Elizabeth Blackburn
-* Brian P. Schmidt
+* [Introduction](docs/chapter_00_introduction.md)
+* [Sir William Lawrence Bragg](docs/chapter_01_william_lawrence_bragg.md)
+* [Sir William Henry Bragg](docs/chapter_02_william_henry_bragg.md)
+* [Howard Florey](docs/chapter_03_howard_florey.md)
+* [Sir Frank Macfarlane Burnet](docs/chapter_04_frank_macfarlane_burnet.md)
+* [Sir John Carew Eccles](docs/chapter_05_john_carew_eccles.md)
+* [Alexander M. Prokhorov](docs/chapter_06_alexander_m_prokhorov.md)
+* [Sir Bernard Katz](docs/chapter_07_bernard_katz.md)
+* [Patrick White](docs/chapter_08_patrick_white.md)
+* [Sir John Cornforth](docs/chapter_09_john_cornforth.md)
+* [Peter C. Doherty](docs/chapter_10_peter_c_doherty.md)
+* [J. M. Coetzee](docs/chapter_11_j_m_coetzee.md)
+* [J. Robin Warren](docs/chapter_12_j_robin_warren.md)
+* [Barry J. Marshall](docs/chapter_13_barry_j_marshall.md)
+* [Elizabeth Blackburn](docs/chapter_14_elizabeth_blackburn.md)
+* [Brian P. Schmidt](docs/chapter_15_brian_p_schmidt.md)
 
 ### Synopsis
 
