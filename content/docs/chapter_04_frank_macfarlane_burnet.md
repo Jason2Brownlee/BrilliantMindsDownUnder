@@ -1,5 +1,5 @@
 ---
-title: Chapter 4 - Sir Frank Macfarlane Burnet
+title: Chapter 04 - Sir Frank Macfarlane Burnet
 ---
 # Sir Frank Macfarlane Burnet
 

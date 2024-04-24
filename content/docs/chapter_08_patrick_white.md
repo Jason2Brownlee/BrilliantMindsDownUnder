@@ -1,5 +1,5 @@
 ---
-title: Chapter 8 - Patrick White
+title: Chapter 08 - Patrick White
 ---
 # Patrick White
 

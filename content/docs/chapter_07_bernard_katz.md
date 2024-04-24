@@ -1,5 +1,5 @@
 ---
-title: Chapter 7 - Sir Bernard Katz
+title: Chapter 07 - Sir Bernard Katz
 ---
 # Sir Bernard Katz
 

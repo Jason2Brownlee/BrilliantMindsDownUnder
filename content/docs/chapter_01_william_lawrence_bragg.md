@@ -1,5 +1,5 @@
 ---
-title: Chapter 1 - Sir William Lawrence Bragg
+title: Chapter 01 - Sir William Lawrence Bragg
 ---
 # Sir William Lawrence Bragg
 

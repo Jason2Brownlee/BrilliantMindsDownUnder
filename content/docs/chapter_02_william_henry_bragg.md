@@ -1,5 +1,5 @@
 ---
-title: Chapter 2 - Sir William Henry Bragg
+title: Chapter 02 - Sir William Henry Bragg
 ---
 # Sir William Henry Bragg
 
