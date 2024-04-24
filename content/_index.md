@@ -6,18 +6,14 @@ title: Home
 
 ## Welcome!
 
-This is the free online version of my book **Brilliant Minds Down Under: Australian Nobel Laureates in Science and Literature**.
+This is the free online version of my book:
 
-This book was an experiment, developed in collaboration with ChatGPT4 and Claude3. I hope you find it interesting.
+* "**Brilliant Minds Down Under: Australian Nobel Laureates in Science and Literature**", [Jason Brownlee](http://JasonBrownlee.me), 2024.
+
+This book was an experiment, developed in collaboration with LLMs, I hope you find it interesting.
 
 ![Brilliant Minds Down Under](cover.png)
 
-### Details
-
-* **Title**: Brilliant Minds Down Under
-* **Subtitle**: Australian Nobel Laureates in Science and Literature
-* **Author**: [Jason Brownlee, Ph.D.](http://JasonBrownlee.me)
-* **Date**: April 25 2024.
 
 ### Table of Contents
 

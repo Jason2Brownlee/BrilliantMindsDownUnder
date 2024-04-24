@@ -14,7 +14,7 @@ Quantum electronics is a branch of physics that deals with the interaction betwe
 
 The development of masers and lasers marked a turning point in the history of science and technology. These devices harness the principles of quantum mechanics to generate and amplify coherent electromagnetic radiation, opening up new frontiers in fields as diverse as telecommunications, medicine, manufacturing, and space exploration. From fiber-optic communication networks to precision surgical tools, from high-powered industrial cutting machines to satellites and space probes, the applications of masers and lasers have transformed the world we live in.
 
-At the heart of these groundbreaking innovations lies the work of scientists like Alexander M. Prokhorov, whose tireless pursuit of knowledge and understanding of the fundamental laws of nature has expanded the boundaries of human possibility. By delving into the mysteries of the quantum world, Prokhorov and his colleagues set the stage for a new era of scientific discovery and technological progress that continues to shape our world today.
+At the heart of these groundbreaking innovations lies the work of scientists like Alexander M. Prokhorov, whose tireless pursuit of knowledge and understanding of the fundamental laws of nature has expanded the boundaries of human possibility. By exploring the mysteries of the quantum world, Prokhorov and his colleagues set the stage for a new era of scientific discovery and technological progress that continues to shape our world today.
 
 ## Biographical Profile
 

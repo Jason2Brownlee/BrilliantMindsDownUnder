@@ -20,7 +20,7 @@ Sir John Carew Eccles was born on January 27, 1903, in Melbourne, Australia. Gro
 
 After completing his secondary education, Eccles enrolled at the University of Melbourne, where he pursued a degree in medicine. During his time at the university, he became fascinated with the workings of the nervous system and began to contemplate a career in research. In 1925, he graduated with honors and was awarded a Rhodes Scholarship to study at Oxford University in England.
 
-Eccles' time at Oxford proved to be a turning point in his academic career. Under the mentorship of renowned neurophysiologist Charles Sherrington, he began to delve deeper into the mysteries of the nervous system. Sherrington's work on the reflex arc and synaptic transmission had a profound influence on Eccles, shaping his research interests and setting the stage for his future discoveries.
+Eccles' time at Oxford proved to be a turning point in his academic career. Under the mentorship of renowned neurophysiologist Charles Sherrington, he began to explore deeper into the mysteries of the nervous system. Sherrington's work on the reflex arc and synaptic transmission had a profound influence on Eccles, shaping his research interests and setting the stage for his future discoveries.
 
 ## Academic and Professional Journey
 
