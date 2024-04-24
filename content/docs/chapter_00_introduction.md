@@ -30,7 +30,7 @@ By adopting this inclusive definition, the book seeks to celebrate the diversity
 ## The Inspiration Behind the Book
 The inspiration for this book came from a personal anecdote. As a young student with a budding interest in science, I was fascinated to discover that several renowned scientists working in the field of artificial intelligence in the United States were, in fact, Australian. One such example was Rodney Brooks, a roboticist and professor at the Massachusetts Institute of Technology (MIT) who was born in Adelaide, South Australia.
 
-Learning about the Australian roots of these pioneering scientists was a revelatory moment for me. It sparked a desire to delve deeper into the stories of Australian scientists and writers who had made a significant impact on the world stage. I wanted to showcase Australia as a source of great scientific and literary minds, and to celebrate the achievements of those who had put the country on the map in these fields.
+Learning about the Australian roots of these pioneering scientists was a revelatory moment for me and motived me to pursue my own scientific career. It also sparked a desire to delve deeper into the stories of Australian scientists and writers who had made a significant impact on the world stage. I wanted to showcase Australia as a source of great scientific and literary minds, and to celebrate the achievements of those who had put the country on the map in these fields.
 
 ## Consistent Template for Each Laureate Profile
 To ensure clarity and ease of comparison, each Australian Nobel Prize winner is profiled using a standardized template. This template includes:
