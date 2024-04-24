@@ -1,5 +1,6 @@
 ---
-title: Chapter 12 - J. Robin Warren
+title: J. Robin Warren
+weight: 13
 ---
 # J. Robin Warren
 

@@ -1,5 +1,6 @@
 ---
-title: Chapter 13 - Barry J. Marshall
+title: Barry J. Marshall
+weight: 14
 ---
 # Barry J. Marshall
 

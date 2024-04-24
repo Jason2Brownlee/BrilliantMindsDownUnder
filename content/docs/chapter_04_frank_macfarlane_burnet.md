@@ -1,5 +1,6 @@
 ---
-title: Chapter 04 - Sir Frank Macfarlane Burnet
+title: Sir Frank Macfarlane Burnet
+weight: 5
 ---
 # Sir Frank Macfarlane Burnet
 

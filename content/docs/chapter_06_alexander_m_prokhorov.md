@@ -1,5 +1,6 @@
 ---
-title: Chapter 06 - Alexander M. Prokhorov
+title: Alexander M. Prokhorov
+weight: 7
 ---
 # Alexander M. Prokhorov
 

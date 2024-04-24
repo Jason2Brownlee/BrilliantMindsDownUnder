@@ -46,7 +46,6 @@ This book was an experiment, developed in collaboration with ChatGPT4 and Claude
 >
 > The book opens with an engaging introduction that sets the stage by exploring Australia's understated sense of national pride, the immense significance of the Nobel Prize, and the inspiration behind showcasing Australian laureates. It then dives into 15 riveting chapters, each dedicated to an Australian Nobel laureate in science or literature:
 >
-> Introduction
 > 1. Sir William Lawrence Bragg
 > 2. Sir William Henry Bragg
 > 3. Howard Florey

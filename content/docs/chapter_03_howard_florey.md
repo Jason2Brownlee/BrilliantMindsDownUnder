@@ -1,5 +1,6 @@
 ---
-title: Chapter 03 - Howard Florey
+title: Howard Florey
+weight: 4
 ---
 # Howard Florey
 

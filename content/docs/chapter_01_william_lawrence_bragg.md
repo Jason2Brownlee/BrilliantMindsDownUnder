@@ -1,5 +1,6 @@
 ---
-title: Chapter 01 - Sir William Lawrence Bragg
+title: Sir William Lawrence Bragg
+weight: 2
 ---
 # Sir William Lawrence Bragg
 

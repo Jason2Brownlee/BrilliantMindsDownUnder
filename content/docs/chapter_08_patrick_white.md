@@ -1,5 +1,6 @@
 ---
-title: Chapter 08 - Patrick White
+title: Patrick White
+weight: 9
 ---
 # Patrick White
 

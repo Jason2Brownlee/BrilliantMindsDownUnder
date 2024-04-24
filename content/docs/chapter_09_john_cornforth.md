@@ -1,5 +1,6 @@
 ---
-title: Chapter 09 - Sir John Cornforth
+title: Sir John Cornforth
+weight: 10
 ---
 # Sir John Cornforth
 

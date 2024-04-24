@@ -1,5 +1,6 @@
 ---
-title: Chapter 10 - Peter C. Doherty
+title: Peter C. Doherty
+weight: 11
 ---
 # Peter C. Doherty
 

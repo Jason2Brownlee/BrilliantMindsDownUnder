@@ -1,5 +1,6 @@
 ---
-title: Chapter 15 - Brian P. Schmidt
+title: Brian P. Schmidt
+weight: 16
 ---
 # Brian P. Schmidt
 

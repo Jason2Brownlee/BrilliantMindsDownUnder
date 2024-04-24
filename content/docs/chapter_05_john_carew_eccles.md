@@ -1,5 +1,6 @@
 ---
-title: Chapter 05 - Sir John Carew Eccles
+title: Sir John Carew Eccles
+weight: 6
 ---
 # Sir John Carew Eccles
 

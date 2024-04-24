@@ -1,5 +1,6 @@
 ---
-title: Chapter 02 - Sir William Henry Bragg
+title: Sir William Henry Bragg
+weight: 3
 ---
 # Sir William Henry Bragg
 

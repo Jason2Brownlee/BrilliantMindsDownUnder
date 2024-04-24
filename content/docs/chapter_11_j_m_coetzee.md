@@ -1,5 +1,6 @@
 ---
-title: Chapter 11 - J. M. Coetzee
+title: J. M. Coetzee
+weight: 12
 ---
 # J. M. Coetzee
 

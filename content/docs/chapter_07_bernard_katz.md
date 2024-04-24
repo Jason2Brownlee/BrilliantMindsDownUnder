@@ -1,5 +1,6 @@
 ---
-title: Chapter 07 - Sir Bernard Katz
+title: Sir Bernard Katz
+weight: 8
 ---
 # Sir Bernard Katz
 
