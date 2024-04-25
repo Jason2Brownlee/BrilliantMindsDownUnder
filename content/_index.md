@@ -12,8 +12,9 @@ This is the free online version of my book:
 
 This book was an experiment, developed in collaboration with LLMs, I hope you find it interesting.
 
-![Brilliant Minds Down Under](cover.png)
+**Update**: now available on [Amazon](https://amzn.to/3UtkB29).
 
+![Brilliant Minds Down Under](/BrilliantMindsDownUnder/cover.png)
 
 ### Table of Contents
 
@@ -69,4 +70,8 @@ This book was an experiment, developed in collaboration with LLMs, I hope you fi
 ### Links
 
 * [Book Home](https://jason2brownlee.github.io/BrilliantMindsDownUnder)
+* [Goodreads](https://www.goodreads.com/book/show/212103058-brilliant-minds-down-under)
+* [Amazon](https://amzn.to/3UtkB29)
 
+
+If you like this book, let me know: Jason.Brownlee05@gmail.com
