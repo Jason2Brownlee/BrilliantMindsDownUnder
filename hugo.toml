@@ -1,4 +1,4 @@
-baseURL = 'https://jason2brownlee.github.io/BrilliantMindsDownUnder'
+baseURL = 'https://jasonbrownlee.me/BrilliantMindsDownUnder'
 languageCode = 'en-us'
 title = 'Brilliant Minds Down Under'
 theme = 'hugo-book'
